@@ -1,4 +1,4 @@
-# intro-code
+# 03-vue-fundamentals
 
 ## Project setup
 ```
